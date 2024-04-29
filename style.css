@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body{
+    text-align: center !important;
+    background-color: chocolate !important;
+    color: white !important;
+    font-family: "Roboto", sans-serif !important;
+    font-weight: 400 !important;
+}
+header, .buttons{
+    background-color:black;
+    padding: 1rem 0;
+}
+h1{
+    font-family: "Jersey 15", sans-serif; 
+}
+.container{
+    padding: 1rem 0;
+    text-align: center !important;  
+}
+#dog-img img{
+    text-align: center;    
+    width: 30rem !important;
+    height: 30rem !important; 
+    border-radius: 20px;
+}
